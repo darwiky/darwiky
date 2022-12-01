@@ -1,7 +1,5 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
-<h1 align="center">Hi 👋, I'm Mário Sacramento</h1>
-<h3 align="center">Just a tech.</h3>
-
+<h1 align="center">Hi 👋 I'm Mário Sacramento</h1>
 
 <div style="display:flex">
   
