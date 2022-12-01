@@ -1,10 +1,19 @@
+![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 <h1 align="center">Hi 👋, I'm Mário Sacramento</h1>
+<h3 align="center">Just a tech.</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<div style="display:flex">
+  
 - 🌱 I’m currently learning **Web Development and Python**
 
 - 📫 How to reach me **sacramento.mlp@gmail.com**
+
+</div>
+
+
+
+
 
 
 ### Stats 📊
